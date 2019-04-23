@@ -8,5 +8,5 @@ permalink: docs/getting-started
 
 # Getting Started
 
-This is a test to see if it has updated.
+This is a test to see if it has updated. Number 2.
 {: .fs-6 .fw-300 }
