@@ -2,11 +2,11 @@
 layout: default
 title: Home
 nav_order: 1
-description: "The purpose of the triangle legal hackers is to promote equality and access to justice by increasing legal and technical literacy."
+description: "The purpose of the NC legal hackers is to promote equality and access to justice by increasing legal and technical literacy."
 permalink: /
 ---
 
-# Welcome to the triangle legal hackers!
+# Welcome to the NC legal hackers!
 {: .fs-9 }
 
 The purpose of this community is to promote equality and access to justice by increasing legal and technical literacy.
