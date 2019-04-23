@@ -107,7 +107,7 @@ ln -s /path/to/file /path/to/symlink
 ln -s  ln -s /mnt/c/Users/your-name/Downloads/ ~/Downloads
 ```
 
-Once this is done, anything downloaded to the Windows \Downloads folder will automatically appear in the linked folder in the linux home directory.  Also note Windows uses backslash (`\`) to delimit directories and linux uses forward slash `/`.
+Once this is done, anything downloaded to the Windows \Downloads folder will automatically appear in the linked folder in the linux home directory.  Also note Windows uses backslash `\` to delimit directories and linux uses forward slash `/`.
 
 ## Next Steps
 *    Browse other [GH Pages](https://github.com/collections/github-pages-examples)
