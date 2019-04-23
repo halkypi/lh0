@@ -12,7 +12,7 @@ permalink: /
 The purpose of this community is to promote equality and access to justice by increasing legal and technical literacy.
 {: .fs-6 .fw-300 }
 
-[Get started now](/lh/docs/getting-started/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Join us on GitHub](https://github.com/halkypi/lh){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get started now](/lh/docs/getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Join us on GitHub](https://github.com/halkypi/lh){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
