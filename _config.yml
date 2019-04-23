@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Legal Hackers 
 description: Site for the Triangle Legal Hackers
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/lh" # the subpath of your site, e.g. /blog
 url: "https://halkypi.github.io/lh" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
