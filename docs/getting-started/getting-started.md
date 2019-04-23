@@ -8,5 +8,5 @@ permalink: docs/getting-started
 
 # Getting Started
 
-To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed.
+This is a test to see if it has updated.
 {: .fs-6 .fw-300 }
