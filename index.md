@@ -2,11 +2,11 @@
 layout: default
 title: Home
 nav_order: 1
-description: "The purpose of the NC legal hackers is to promote equality and access to justice by increasing legal and technical literacy."
+description: "The purpose of NC legal hackers is to promote equality and access to justice by increasing legal and technical literacy."
 permalink: /
 ---
 
-# Welcome to the NC legal hackers!
+# Welcome to NC legal hackers!
 {: .fs-9 }
 
 The purpose of this community is to promote equality and access to justice by increasing legal and technical literacy.
@@ -20,7 +20,7 @@ The purpose of this community is to promote equality and access to justice by in
 
 ### License
 
-All files related to this site are distributed under [MIT license](https://github.com/halkypi/lh/blob/gh-pages/LICENSE).
+All files on this site are distributed under [MIT license](https://github.com/halkypi/lh/blob/gh-pages/LICENSE).
 
 ### Code of Conduct for Open Source Projects
 
