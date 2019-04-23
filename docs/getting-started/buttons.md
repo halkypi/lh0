@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Test page
-parent: UI Components
+title: Buttons
+parent: Getting Started
 nav_order: 2
 ---
 
-# Test
+# Buttons
 {: .no_toc }
 
 ## Table of contents

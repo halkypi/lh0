@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tables
-parent: UI Components
+parent: Getting Started
 nav_order: 4
 ---
 
