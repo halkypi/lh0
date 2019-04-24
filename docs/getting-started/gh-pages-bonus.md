@@ -109,7 +109,7 @@ ln -s  ln -s /mnt/c/Users/your-name/Downloads/ ~/Downloads
 
 Once this is done, anything downloaded to the Windows `Downloads` directory will automatically appear in the linked folder on linux and vice versa.  The same can be done for `Documents` and `Desktop`:
 
-![](https://github.com/halkypi/lh/blob/gh-pages/assets/images/symlink.gif?raw=true)
+![](https://github.com/halkypi/lh/blob/gh-pages/assets/images/sym-link.gif?raw=true)
 
 ## Next Steps
 *    Browse other [GH Pages](https://github.com/collections/github-pages-examples)
