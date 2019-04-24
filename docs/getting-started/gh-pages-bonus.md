@@ -107,6 +107,8 @@ ln -s /path/to/file /path/to/symlink
 ln -s  ln -s /mnt/c/Users/your-name/Downloads/ ~/Downloads
 ```
 
+![](/lh/assets/images/sym-links.png?raw=true)
+
 Once this is done, anything downloaded to the Windows \Downloads folder will automatically appear in the linked folder in the linux home directory.  Also note Windows uses backslash `\` to delimit directories and linux uses forward slash `/`.
 
 ## Next Steps
