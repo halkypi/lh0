@@ -100,16 +100,16 @@ bundle exec jekyll serve
 ```
 ### Tips
 
-To pass files between Linux and Windows it is necessary to create symbolic links (or shortcuts) between the two.  It is important to do this from the bash terminal as opposed to the Windows machine for encoding reasons.  For example:
+To pass files between Linux and Windows it is necessary to create symbolic links (or shortcuts).  It is important to do this from the bash terminal as opposed to the Windows machine for encoding reasons.  Use the `ln -s` command, for example:
 
 ```
 ln -s /path/to/file /path/to/symlink
 ln -s  ln -s /mnt/c/Users/your-name/Downloads/ ~/Downloads
 ```
 
-![](/lh/assets/images/sym-links.png?raw=true)
+Once this is done, anything downloaded to the Windows `Downloads` directory will automatically appear in the linked folder in linux and vice versa.  The same can be done for `Documents` and `Desktop`:
 
-Once this is done, anything downloaded to the Windows \Downloads folder will automatically appear in the linked folder in the linux home directory.  Also note Windows uses backslash `\` to delimit directories and linux uses forward slash `/`.
+![](/lh/assets/images/sym-links.png?raw=true)
 
 ## Next Steps
 *    Browse other [GH Pages](https://github.com/collections/github-pages-examples)
