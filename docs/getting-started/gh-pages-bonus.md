@@ -107,7 +107,7 @@ ln -s /path/to/file /path/to/symlink
 ln -s  ln -s /mnt/c/Users/your-name/Downloads/ ~/Downloads
 ```
 
-Once this is done, anything downloaded to the Windows `Downloads` directory will automatically appear in the linked folder in linux and vice versa.  The same can be done for `Documents` and `Desktop`:
+Once this is done, anything downloaded to the Windows `Downloads` directory will automatically appear in the linked folder on linux and vice versa.  The same can be done for `Documents` and `Desktop`:
 
 ![](/lh/assets/images/sym-links.png?raw=true)
 
