@@ -111,6 +111,10 @@ Once this is done, anything downloaded to the Windows `Downloads` directory will
 
 ![](https://github.com/halkypi/lh/blob/gh-pages/assets/images/symlink.gif)
 
+![](/lh/assets/images/sym-link.png?raw=true)
+
+![](https://github.com/halkypi/lh/blob/gh-pages/assets/images/symlink.gif?raw=true)
+
 ## Next Steps
 *    Browse other [GH Pages](https://github.com/collections/github-pages-examples)
 *    Explore [Open Source](https://github.com/explore) repositories
