@@ -3,10 +3,14 @@ layout: default
 title: SciPy
 published: true
 parent: Tour
-nav_order: 4
+nav_order: 3
 ---
 
 # SciPy
+{: .no_toc }
+
+* TOC
+{:toc}
 
 The SciPy library is one of the core packages that make up the SciPy stack. It provides many user-friendly and efficient numerical routines such as routines for numerical integration and optimization.
 

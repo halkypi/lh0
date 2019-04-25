@@ -3,7 +3,7 @@ layout: default
 title: Matplotlib
 published: true
 parent: Tour
-nav_order: 6
+nav_order: 5
 ---
 
 # Matplotlib

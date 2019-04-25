@@ -3,10 +3,14 @@ layout: default
 title: Pandas
 published: true
 parent: Tour
-nav_order: 5
+nav_order: 4
 ---
 
 # Pandas
+{: .no_toc }
+
+* TOC
+{:toc}
 
 Pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
 

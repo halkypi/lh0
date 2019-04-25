@@ -3,10 +3,14 @@ layout: default
 title: NumPy
 published: true
 parent: Tour
-nav_order: 3
+nav_order: 2
 ---
 
 # NumPy
+{: .no_toc }
+
+* TOC
+{:toc}
 
 NumPy is the fundamental package for scientific computing with Python. It contains among other things:
 
