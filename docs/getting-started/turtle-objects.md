@@ -6,6 +6,9 @@ parent: Getting Started
 nav_order: 2
 ---
 # Turtle Objects
+{: .no_toc }
+* TOC
+{:toc}
 ## Introduction to python objects through Turtle graphics
 Everything in Python is an object.  We'll explore basic object types using the turtle [demo](https://docs.python.org/3/library/turtle.html#module-turtledemo) because it:
 *   can be boring to learn building blocks without making anything

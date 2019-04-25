@@ -2,7 +2,7 @@
 layout: default
 title: SciPy
 published: true
-parent: Data science 101 for lawyers
+parent: Tour
 nav_order: 4
 ---
 

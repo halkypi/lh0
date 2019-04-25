@@ -2,10 +2,12 @@
 layout: default
 title: Tour 
 published: true
-parent: Data science 101 for lawyers
-nav_order: 2
+has_children: true
+nav_order: 4
 ---
 # Tour 
+
+*    Download the [tour notebooks](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/halkypi/lh/blob/gh-pages/docs/notebooks/)
 
 virtualenv is used to manage Python packages for different projects. Using virtualenv allows you to avoid installing Python packages globally which could break system tools or other projects. You can install virtualenv using pip.
 

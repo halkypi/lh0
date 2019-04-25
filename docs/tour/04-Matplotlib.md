@@ -2,7 +2,7 @@
 layout: default
 title: Matplotlib
 published: true
-parent: Data science 101 for lawyers
+parent: Tour
 nav_order: 6
 ---
 

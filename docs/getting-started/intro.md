@@ -6,6 +6,9 @@ has_children: true
 nav_order: 1
 ---
 # Intro to Python
+{: .no_toc }
+* TOC
+{:toc}
 
 We'll be using Python 3 because it's free, powerful, full stack ([Python is the second-best language for everything](https://twitter.com/jakevdp/status/994934052091318272?lang=en)) and the [lingua franca of data science](https://www.kaggle.com/learn/python).  There may also be a little [SQL](https://www.kaggle.com/learn/sql).
 
