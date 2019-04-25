@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SciKit-Learn
+title: Scikit-learn
 published: true
 parent: Tour
 nav_order: 9
@@ -38,7 +38,7 @@ def import_titles(filename):
 ```python
 upworthy_titles = import_titles('./data/upworthy_titles.txt')
 
-print len(upworthy_titles)
+print(len(upworthy_titles))
 upworthy_titles[:5] # first five
 
 ```
@@ -47,7 +47,7 @@ upworthy_titles[:5] # first five
 ```python
 times_titles = import_titles('./data/not_upworthy_titles.txt')
 
-print len(times_titles)
+print(len(times_titles))
 times_titles[:5] # first five
 ```
 
@@ -172,13 +172,13 @@ X_train, X_test, y_train, y_test = train_test_split(X, upworthy, test_size=0.3)
 clf.fit(X_train, y_train)
 y_test_pred = clf.predict(X_test)
 
-print "classification accuracy:", metrics.accuracy_score(y_test, y_test_pred)
+print("classification accuracy:", metrics.accuracy_score(y_test, y_test_pred))
 cm = metrics.confusion_matrix(y_test, y_test_pred)
 plot_confusion_matrix(cm)
 ```
 
-
-```python
+This is unstable for some reason (skip for now):
+```
 from sklearn import cross_validation
 
 cross_validation.cross_val_score(clf, X, np.array(upworthy),  cv=10)
