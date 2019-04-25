@@ -1,0 +1,17 @@
+numpy 
+pandas 
+scipy 
+openpyxl
+xlrd
+paramiko
+scikit-learn 
+matplotlib 
+seaborn 
+jupyter 
+notebook
+gensim 
+nltk 
+cython 
+seaborn 
+statsmodels 
+beautifulsoup4

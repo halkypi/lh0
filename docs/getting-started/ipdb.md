@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Ipython debugger 
+title: Ipython Debugger 
 description: The ipython debugger 
 parent: Getting Started
 nav_order: 3
 ---
+# Ipython Debugger 
 ## Running the ipython debugger (ipbd) from the command line
 * TOC
 {:toc}
