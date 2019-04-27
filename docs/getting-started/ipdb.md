@@ -13,7 +13,7 @@ nav_order: 3
 
 This is meant to be an interactive session.  Follow the steps below:
 
-*    Download `demo.py` from: <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/halkypi/sh/blob/gh-pages/assets/code/demo.py" target="_blank">here</a>
+*    Download `demo.py` from: <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/halkypi/lh/blob/gh-pages/assets/code/demo.py" target="_blank">here</a>
 This has been copied from the `lib/python3.6/turtle.py`, ie the main turtle module.
 *    Download a text editor like [notepad++](https://notepad-plus-plus.org/) or [sublime](https://www.sublimetext.com/) and view the file
 *    Open a terminal and: `pip install ipdb`
