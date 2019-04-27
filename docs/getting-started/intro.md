@@ -20,7 +20,7 @@ There are different installations out there, Anaconda is awesome but a bit bloat
 <details>
   <summary>Click to expand</summary>
   
-  ![](https://github.com/halkypi/lh/blob/gh-pages/assets/images/install.gif?raw=true)
+![](https://github.com/halkypi/lh/blob/gh-pages/assets/images/install.gif?raw=true)
 </details>
 
 ### Test installation
@@ -50,7 +50,7 @@ exit
 <details>
   <summary>Click to expand</summary>
   
-  ![](https://github.com/halkypi/lh/blob/gh-pages/assets/images/test-install.gif?raw=true)
+![](https://github.com/halkypi/lh/blob/gh-pages/assets/images/test-install.gif?raw=true)
 </details>
 
 ### Some good 'getting started' guides
