@@ -33,7 +33,7 @@ $ python
 Hello!
 >>> (3 + 2) * 3
 15
->>> exit()
+
 ```
 *    Why doesn't it print 9?  
 *    What would the output from these be?
@@ -41,7 +41,11 @@ Hello!
 ```py
 >>> 2 + 3 * 3
 >>> 3 + 2 * 3
+>>> exit()
+exit
 ```
+
+![](https://github.com/halkypi/lh/blob/gh-pages/assets/images/test-install.gif?raw=true)
 
 ### Some good 'getting started' guides
 
