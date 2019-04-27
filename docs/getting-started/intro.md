@@ -47,11 +47,8 @@ Hello!
 >>> exit()
 exit
 ```
-<details>
-  <summary>Click to expand</summary>
-  
+
 ![](https://github.com/halkypi/lh/blob/gh-pages/assets/images/test-install.gif?raw=true)
-</details>
 
 ### Some good 'getting started' guides
 
