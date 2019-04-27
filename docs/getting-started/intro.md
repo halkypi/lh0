@@ -21,7 +21,7 @@ There are different installations out there, Anaconda is awesome but a bit bloat
 ![](https://github.com/halkypi/lh/blob/gh-pages/assets/images/install.gif?raw=true)
 
 ### Test installation
-Open a terminal, type in `python` and press enter.  You  should see three chevrons `>>>`, see below.  If this doesn't work you probably missed the `Add Python to Path` box, just reinstall. 
+Open a [terminal](https://www.google.com/search?q=how+do+i+open+a+terminal), type in `python` and press enter.  You  should see three chevrons `>>>`, see below.  If this doesn't work you probably missed the `Add Python to Path` box, just reinstall. 
 
 ### First program
 
